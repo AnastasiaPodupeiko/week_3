@@ -1,0 +1,16 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+.wrapper {
+  min-height: 100vh;
+  width: 100%;
+  /* background-color: gainsboro;
+  background-image: url(https://i1.7fon.org/thumb/g586474.jpg);
+  background-size: 300px 150px;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-attachment: fixed;*/
+  background: gainsboro url(https://i1.7fon.org/thumb/g586474.jpg) 50% 50%
+    no-repeat fixed;
+}

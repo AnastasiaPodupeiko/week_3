@@ -1,0 +1,20 @@
+.example {
+  width: 100px;
+  height: 100px;
+  background-color: gray;
+  margin: 20px;
+  /*border-radius: 50px 40px 30px 20px;*/
+  /*border-radius: 20px/40px;*/
+  border-top-left-radius: 50px;
+  border-top-right-radius: 40px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 30px;
+}
+ul li {
+  list-style-type: square;
+  list-style-position: inside;
+  list-style-image: none;
+}
+h1 {
+  color: rgba(143, 24, 223, 0.5);
+}
